@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepelete",
+        "uuid": 122237,
+        "checksum": "9v3ezm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
